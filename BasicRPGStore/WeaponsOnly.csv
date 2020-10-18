@@ -1,0 +1,43 @@
+﻿ItemId,ItemType,ItemName,Damage,Range,UndeadBonus
+0,Axe,Chieftain,5,0,0
+1,Axe,Scourgeborne,4,0,0
+2,Axe,Remorse,2,0,0
+3,Axe,Frost Broadaxe,8,0,0
+4,Axe,Bandit's Cleaver,4,0,0
+5,Axe,Conqueror Ebon Battle Axe,1,0,0
+6,Axe,Refined Bronze Dualblade,5,0,0
+7,Axe,"Knight's Honor, Crusader of Eternal Rest",5,0,0
+8,Axe,"The Warden, Broadaxe of Hate",2,0,0
+9,Axe,"Justifier, Promise of Anguish",3,0,0
+10,Bow,Stormsong,2,5,0
+11,Bow,Netherstrand,3,5,0
+12,Bow,Back Pain,2,5,0
+13,Bow,Bone Flatbow,3,8,0
+14,Bow,Redwood Bolter,2,8,0
+15,Bow,Dancing Titanium Compound Bow,3,5,0
+16,Bow,Mended Driftwood Crossbow,4,6,0
+17,Bow,"Meteor, Hunting Bow of Chaos",5,6,0
+18,Bow,"Porcupine, Pact of Fury",4,6,0
+19,Bow,"Whisper, Poke of the Talon",5,7,0
+20,Sword,Narcoleptic,1,0,5
+21,Sword,Witherbrand,2,0,1
+22,Sword,Faithkeeper,3,0,4
+23,Sword,Soul Sculptor,1,0,5
+24,Sword,Engraved Sword,2,0,0
+25,Sword,Spiteful Mithril Rapier,4,0,0
+26,Sword,Eerie Copper Warblade,2,0,0
+27,Sword,"Requiem, Jaws of Blight",4,0,0
+28,Sword,"Celeste, Blood Blade of Conquered Worlds",5,0,5
+29,Sword,"Heartseeker, Broadsword of the Insane",2,0,6
+33,Sword,Guard's Scimitar,4,0,0
+34,Sword,Lonely Longsword,5,0,0
+30,Sword,Chaos,1,0,4
+31,Sword,Stinger,2,0,9
+32,Sword,Shadowsteel,3,0,0
+35,Sword,Bloodvenom Diamond Defender,2,0,0
+36,Sword,Misfortune's Bronze Mageblade,7,0,0
+37,Sword,"Klinge, Protector of Perdition",1,0,0
+38,Sword,"Silver Saber, Savagery of Eternal Justice",4,0,0
+39,Sword,"Night's Fall, Betrayer of the Night Sky",6,0,0
+40,Arrow,Oak Arrows,4,5,0
+41,Arrow,Ash Arrows,3,6,0
